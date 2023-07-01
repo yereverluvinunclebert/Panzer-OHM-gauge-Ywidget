@@ -1,12 +1,14 @@
 # Panzer-OHM-gauge-Ywidget
 
-Panzer Clock and Stopwatch Yahoo Widget, written in Javascript for the Yahoo 
+Panzer OHM Temperature Widget, written in Javascript for the Yahoo 
 Widget (Konfabulator) Engine. Created for XP, Vista, Win7, 8, 10+ .
 
-![panzer-stopwatch650](https://github.com/yereverluvinunclebert/Panzer-Clock-Ywidget/assets/2788342/352fb2cb-742d-4e24-afe7-906b05e7fb1e)
+![panzerOHM650](https://github.com/yereverluvinunclebert/Panzer-OHM-gauge-Ywidget/assets/2788342/8d616791-69d1-4d8d-8a88-c0e7cd3bdb7a)
 
 This Panzer widget is an attractive dieselpunk Yahoo widget for your desktop. 
-It is a simple multi-timezone stopwatch and clock. Functional and gorgeous at 
+It is a simple temperature gauge that can monitor the state of the various 
+components in your machine via the reported temperatures. It uses the Open 
+Hardware Monitor tool to extract the temperatures. Functional and gorgeous at 
 the same time. This Widget is a moveable widget that you can move anywhere 
 around the desktop as you require.
 
@@ -66,7 +68,8 @@ your Windows desktop as long as you have the correct widget engine installed.
 I have not included the Mac OS/X installation instructions as I am unsure 
 whether the hardware monitor for Mac still operates.
 
- ![Icon](https://github.com/yereverluvinunclebert/Panzer-Clock-Ywidget/assets/2788342/332a7b59-abd6-4eac-857d-51dfe2d80af9)
+![Icon](https://github.com/yereverluvinunclebert/Panzer-OHM-gauge-Ywidget/assets/2788342/aa518bbe-76bd-4d8d-a044-4f2def10f9b4)
+
  
 Instructions for running Yahoo widgets on Windows
 =================================================
@@ -76,9 +79,7 @@ Instructions for running Yahoo widgets on Windows
 3. Unzip it
 4. Double-click on the resulting .KON file and it will install and run
 
-
-![about](https://github.com/yereverluvinunclebert/Panzer-Clock-Ywidget/assets/2788342/bf3ec2c8-b689-434b-be30-f1f441c41c0a)
-
+![about](https://github.com/yereverluvinunclebert/Panzer-OHM-gauge-Ywidget/assets/2788342/0c3b92f5-5d41-473b-b3da-72b2f129d28b)
 
 LICENCE AGREEMENTS:
 
