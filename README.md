@@ -68,8 +68,7 @@ your Windows desktop as long as you have the correct widget engine installed.
 I have not included the Mac OS/X installation instructions as I am unsure 
 whether the hardware monitor for Mac still operates.
 
-![Icon](https://github.com/yereverluvinunclebert/Panzer-OHM-gauge-Ywidget/assets/2788342/aa518bbe-76bd-4d8d-a044-4f2def10f9b4)
-
+![panzerOHMgauge](https://github.com/yereverluvinunclebert/Panzer-OHM-gauge-Ywidget/assets/2788342/15a20049-ed20-407a-8448-23eaef45497d)
  
 Instructions for running Yahoo widgets on Windows
 =================================================
