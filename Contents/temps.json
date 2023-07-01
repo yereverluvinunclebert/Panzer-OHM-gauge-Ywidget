@@ -1,0 +1,6 @@
+[
+{"name":"CPU Core #2","value":44,"max":73,"identifier":"/intelcpu/0/temperature/1"},
+{"name":"CPU Core #1","value":45,"max":73,"identifier":"/intelcpu/0/temperature/0"},
+{"name":"Temperature","value":46,"max":49,"identifier":"/hdd/0/temperature/0"}
+]
+
