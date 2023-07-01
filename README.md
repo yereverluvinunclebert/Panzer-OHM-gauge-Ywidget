@@ -1,7 +1,7 @@
 # Panzer-OHM-gauge-Ywidget
 
 Panzer OHM Temperature Widget, written in Javascript for the Yahoo 
-Widget (Konfabulator) Engine. Created for XP, Vista, Win7, 8, 10+ .
+Widget (Konfabulator) Engine. Created for XP, Vista, Win7, 8, 10+.
 
 ![panzerOHM650](https://github.com/yereverluvinunclebert/Panzer-OHM-gauge-Ywidget/assets/2788342/8d616791-69d1-4d8d-8a88-c0e7cd3bdb7a)
 
