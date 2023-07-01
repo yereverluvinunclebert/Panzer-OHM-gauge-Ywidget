@@ -16,7 +16,7 @@ The widget can be resized - Hover the cursor over the widget. Press the CTRL key
 and use your mousewheel up or down. The widget will resize dynamically.
 
 To find out how the widget operates, simply right click and select Help and a 
-full explanation of all the buttons, windows is shown. The top left window is 
+full explanation of all the buttons and windows, is shown. The top left window is 
 the maximum temperature experienced by the chosen sensor, top right window is 
 the current temperature in digital form. The bottom right window is the current 
 scale used. The middle button selects the scale. Hovering over any control 
