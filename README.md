@@ -36,6 +36,7 @@ provide.
 Built using: 
 
 	RJTextEd Advanced Editor  https://www.rj-texted.se/
+  Adobe Photoshop CS ver 8.0 (2003)  https://www.adobe.com/uk/products/photoshop/free-trial-download.html  
 
 Tested on :
 
