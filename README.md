@@ -60,7 +60,7 @@ operate.
    
 o Installation of the yahoo widget SDK runtime engine  
 
-	Yahoo widget engine for Windows - https://www.deviantart.com/users/outgoing?http://g6auc.me.uk/ywidgets_sdk_setup.exe  
+	Yahoo widget engine for Windows - http://g6auc.me.uk/ywidgets_sdk_setup.exe  
 
 Running the widget using a javascript engine frees javascript from running only 
 within the captivity of a browser, you will now be able to run these widgets on 
